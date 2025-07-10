@@ -6,5 +6,5 @@ vygenerujte a zobrazte matici dat tak, jak ji vidíte na vzorovém obrázku ní�
 
 
 # Obsah
-main.py - soubor se zdrojovým kodem
-Result.md - obrázek výsledku 
+/t main.py - soubor se zdrojovým kodem
+/t Result.md - obrázek výsledku 
